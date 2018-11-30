@@ -1,11 +1,18 @@
 {
-  "packageDirectories": [
-    {
-      "path": "cc-base",
-      "default": true
+    "packageDirectories": [
+        {
+            "path": "cc-base",
+            "default": true,
+            "package": "career-coach",
+            "versionName": "Version 1.0",
+            "versionNumber": "1.0.0.NEXT"
+        }
+    ],
+    "namespace": "",
+    "sfdcLoginUrl": "https://login.salesforce.com",
+    "sourceApiVersion": "44.0",
+    "packageAliases": {
+        "career-coach": "0Ho1U0000008OJcSAM",
+        "career-coach@1.0.0-1": "04t1U000000tvyoQAA"
     }
-  ],
-  "namespace": "",
-  "sfdcLoginUrl": "https://login.salesforce.com",
-  "sourceApiVersion": "44.0"
 }

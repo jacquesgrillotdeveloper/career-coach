@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ValidationRule xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Planned_Dates</fullName>
+    <active>true</active>
+    <description>Planned Certifications should not have Completed or Renewal dates.</description>
+    <errorConditionFormula>AND(NOT(ISPICKVAL(Status__c,&#39;Completed&#39;)),
+					OR(NOT(ISBLANK(Completed_Date__c)), 
+								NOT(ISBLANK( Renewal_Date__c ) 
+											) 
+							) 
+				)</errorConditionFormula>
+    <errorMessage>Planned Certifications should not have Completed or Renewal dates.</errorMessage>
+</ValidationRule>
