@@ -4,7 +4,7 @@
     <standardValue>
         <fullName>Prospecting</fullName>
         <default>false</default>
-        <description>Discovery of Opportunity</description>
+        <description>Discovery of Opportunity.</description>
         <label>Prospecting</label>
         <closed>false</closed>
         <forecastCategory>Pipeline</forecastCategory>
@@ -24,7 +24,7 @@
     <standardValue>
         <fullName>Preparing Application</fullName>
         <default>false</default>
-        <description>Preparing Resume and Application for Resume</description>
+        <description>Preparing Application for Opportunity.</description>
         <label>Preparing Application</label>
         <closed>false</closed>
         <forecastCategory>Pipeline</forecastCategory>
@@ -34,7 +34,7 @@
     <standardValue>
         <fullName>Application Submitted</fullName>
         <default>false</default>
-        <description>Application submitted for Opportunity</description>
+        <description>Application submitted for Opportunity.</description>
         <label>Application Submitted</label>
         <closed>false</closed>
         <forecastCategory>Pipeline</forecastCategory>
@@ -44,7 +44,7 @@
     <standardValue>
         <fullName>Initial Interviews</fullName>
         <default>false</default>
-        <description>Initial round of interviews</description>
+        <description>Initial round of Interviews.</description>
         <label>Initial Interviews</label>
         <closed>false</closed>
         <forecastCategory>Pipeline</forecastCategory>
@@ -54,7 +54,7 @@
     <standardValue>
         <fullName>Secondary Interviews</fullName>
         <default>false</default>
-        <description>Secondary round of interviews.</description>
+        <description>Secondary round of Interviews.</description>
         <label>Secondary Interviews</label>
         <closed>false</closed>
         <forecastCategory>Pipeline</forecastCategory>
@@ -64,7 +64,7 @@
     <standardValue>
         <fullName>Negotiation/Review</fullName>
         <default>false</default>
-        <label>Negotiation/Review</label>
+        <label>Negotiation/Review of Salary/Benefits.</label>
         <closed>false</closed>
         <forecastCategory>Pipeline</forecastCategory>
         <probability>90</probability>
@@ -73,7 +73,7 @@
     <standardValue>
         <fullName>Closed Won</fullName>
         <default>false</default>
-        <description>Congrats!</description>
+        <description>Congrats!!</description>
         <label>Closed Won</label>
         <closed>true</closed>
         <forecastCategory>Closed</forecastCategory>
