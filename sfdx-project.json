@@ -4,8 +4,8 @@
             "path": "cc-base",
             "default": true,
             "package": "career-coach",
-            "versionName": "Version 1.0",
-            "versionNumber": "1.0.0.NEXT"
+            "versionName": "Version 1.2 - Lead Mgmt",
+            "versionNumber": "1.2.0.NEXT"
         }
     ],
     "namespace": "",
@@ -14,6 +14,8 @@
     "packageAliases": {
         "career-coach": "0Ho1U0000008OJcSAM",
         "career-coach@1.0.0-1": "04t1U000000tvyoQAA",
-        "career-coach@1.0.0-2": "04t1U000000twa3QAA"
+        "career-coach@1.0.0-2": "04t1U000000twa3QAA",
+        "career-coach@1.0.0-3": "04t1U000000uCOZQA2",
+        "career-coach@1.2.0-1": "04t1U000000uJG1QAM"
     }
 }

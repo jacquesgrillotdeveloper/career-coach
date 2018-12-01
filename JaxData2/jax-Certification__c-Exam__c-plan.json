@@ -1,0 +1,18 @@
+[
+    {
+        "sobject": "Certification__c",
+        "saveRefs": true,
+        "resolveRefs": false,
+        "files": [
+            "jax-Certification__cs.json"
+        ]
+    },
+    {
+        "sobject": "Exam__c",
+        "saveRefs": false,
+        "resolveRefs": true,
+        "files": [
+            "jax-Exam__cs.json"
+        ]
+    }
+]
