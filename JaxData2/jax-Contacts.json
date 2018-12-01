@@ -1,0 +1,80 @@
+{
+    "records": [
+        {
+            "attributes": {
+                "type": "Contact",
+                "referenceId": "ContactRef1"
+            },
+            "LastName": "O'Keefe",
+            "FirstName": "Sean",
+            "Email": "sean.okeefe@capgemini.com",
+            "AccountId": "@AccountRef2"
+        },
+        {
+            "attributes": {
+                "type": "Contact",
+                "referenceId": "ContactRef2"
+            },
+            "LastName": "O'Brien",
+            "FirstName": "Janet",
+            "Phone": "3126935203",
+            "Email": "janet.obrien@accenture.com",
+            "AccountId": "@AccountRef3"
+        },
+        {
+            "attributes": {
+                "type": "Contact",
+                "referenceId": "ContactRef3"
+            },
+            "LastName": "Grillot",
+            "FirstName": "Jacques",
+            "Salutation": "Mr.",
+            "MailingStreet": "3 Arch Pl\r\nUnit 427",
+            "MailingCity": "Gaithersburg",
+            "MailingState": "MD",
+            "MailingPostalCode": "20878",
+            "MailingCountry": "USA",
+            "MobilePhone": "(301) 466-5553",
+            "Email": "jacques.grillot@gmail.com",
+            "Title": "Salesforce Certified Application Architect",
+            "LinkedIn_Profile__c": "https://www.linkedin.com/in/jacquesgrillot",
+            "Trailhead_Profile__c": "https://trailhead.com/me/jacquesgrillot",
+            "Personal_Website__c": "https://grillot.me",
+            "AccountId": "@AccountRef4"
+        },
+        {
+            "attributes": {
+                "type": "Contact",
+                "referenceId": "ContactRef4"
+            },
+            "LastName": "Mendonca",
+            "FirstName": "Fabio",
+            "LinkedIn_Profile__c": "https://www.linkedin.com/in/fabio-mendonca-06440927/",
+            "AccountId": "@AccountRef5"
+        },
+        {
+            "attributes": {
+                "type": "Contact",
+                "referenceId": "ContactRef5"
+            },
+            "LastName": "Frey",
+            "FirstName": "Steffen",
+            "Salutation": "Mr.",
+            "Phone": "2025954351",
+            "Email": "sfrey@icmarc.org",
+            "AccountId": "@AccountRef5"
+        },
+        {
+            "attributes": {
+                "type": "Contact",
+                "referenceId": "ContactRef6"
+            },
+            "LastName": "Kathirgamanathan",
+            "FirstName": "Shalini",
+            "Phone": "6473263330",
+            "Email": "skathirgamanathan@salesforce.com",
+            "Title": "Recruiter",
+            "AccountId": "@AccountRef9"
+        }
+    ]
+}

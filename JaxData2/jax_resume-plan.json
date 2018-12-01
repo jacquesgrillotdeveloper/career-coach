@@ -1,0 +1,58 @@
+[
+    {
+        "sobject": "Account",
+        "saveRefs": true,
+        "resolveRefs": false,
+        "files": [
+            "jax-Accounts.json"
+        ]
+    },
+    {
+        "sobject": "Contact",
+        "saveRefs": true,
+        "resolveRefs": true,
+        "files": [
+            "jax-Contacts.json"
+        ]
+    },
+    {
+        "sobject": "Resume__c",
+        "saveRefs": true,
+        "resolveRefs": true,
+        "files": [
+            "jax-Resume__cs.json"
+        ]
+    },
+    {
+        "sobject": "Experience__c",
+        "saveRefs": false,
+        "resolveRefs": true,
+        "files": [
+            "jax-Experience__cs.json"
+        ]
+    },
+    {
+        "sobject": "Achievement__c",
+        "saveRefs": false,
+        "resolveRefs": true,
+        "files": [
+            "jax-Achievement__cs.json"
+        ]
+    },
+    {
+        "sobject": "Technical_Skill__c",
+        "saveRefs": false,
+        "resolveRefs": true,
+        "files": [
+            "jax-Technical_Skill__cs.json"
+        ]
+    },
+    {
+        "sobject": "Opportunity",
+        "saveRefs": false,
+        "resolveRefs": true,
+        "files": [
+            "jax-Opportunitys.json"
+        ]
+    }
+]
