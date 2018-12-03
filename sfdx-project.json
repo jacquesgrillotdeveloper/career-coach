@@ -4,8 +4,8 @@
             "path": "cc-base",
             "default": true,
             "package": "career-coach",
-            "versionName": "Version 1.2 - Lead Mgmt",
-            "versionNumber": "1.2.0.NEXT"
+            "versionName": "Version 1.3 - Campaign and Lead Mgmt w Files Support",
+            "versionNumber": "1.3.1.NEXT"
         }
     ],
     "namespace": "",
@@ -16,6 +16,10 @@
         "career-coach@1.0.0-1": "04t1U000000tvyoQAA",
         "career-coach@1.0.0-2": "04t1U000000twa3QAA",
         "career-coach@1.0.0-3": "04t1U000000uCOZQA2",
-        "career-coach@1.2.0-1": "04t1U000000uJG1QAM"
+        "career-coach@1.2.0-1": "04t1U000000uJG1QAM",
+        "career-coach@1.3.0-1": "04t1U000000uMn6QAE",
+        "career-coach@1.3.0-2": "04t1U000000uMrJQAU",
+        "career-coach@1.3.0-3": "04t1U000000uPrCQAU",
+        "career-coach@1.3.1-1": "04t1U000000uTSUQA2"
     }
 }

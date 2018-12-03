@@ -31,6 +31,14 @@
     <picklistValues>
         <picklist>LeadSource</picklist>
         <values>
+            <fullName>Job Board</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>LinkedIn</fullName>
+            <default>false</default>
+        </values>
+        <values>
             <fullName>Other</fullName>
             <default>false</default>
         </values>
@@ -43,7 +51,7 @@
             <default>false</default>
         </values>
         <values>
-            <fullName>Purchased List</fullName>
+            <fullName>Referral</fullName>
             <default>false</default>
         </values>
         <values>

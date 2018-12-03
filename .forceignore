@@ -9,5 +9,8 @@ cc-base/main/default/profiles/Custom%3A Marketing Profile.profile-meta.xml
 cc-base/main/default/profiles/Custom%3A Sales Profile.profile-meta.xml
 cc-base/main/default/profiles/Custom%3A Support Profile.profile-meta.xml
 
+
 # Exclude from packaging because it fails
 cc-base/main/default/LeadConvertSettings
+AppSwitcher.appMenu
+cc-base/main/default/reports/unfiled$public
